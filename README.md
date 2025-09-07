@@ -1,9 +1,9 @@
 ## Profile
-👩 정희준 <br>
+👨 정희준 <br>
 👶 1999.09.27 <br>
 📞 010-5576-7406 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hjjung990927@gmail.com)](mailto:hjjung990927@gmail.com) <span><a href="https://spotty-alligator-d0a.notion.site/b5c2a4cd0d004e29b5dde7e98ce2ae09?pvs=4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hjjung990927@gmail.com)](mailto:hjjung990927@gmail.com)
 
 
 
