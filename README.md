@@ -4,7 +4,7 @@
 📞 010-5576-7406 <br>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hjjung990927@gmail.com)](mailto:hjjung990927@gmail.com)
-<a href="https://www.notion.so/265c6a542068809f9061cb20d8221708?source=copy_link"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a>
+<a href="https://www.notion.so/265c6a542068809f9061cb20d8221708"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a>
 
 
 
