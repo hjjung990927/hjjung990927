@@ -1,14 +1,9 @@
-<div align=center>
-  <img src=""  style ="width : 1000px; height:400px"/>
-</div>
-
-
 ## Profile
 👩 정희준 <br>
 👶 1999.09.27 <br>
 📞 010-5576-7406 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seinee114@gmail.com)](mailto:seinee114@gmail.com) <span><a href="https://spotty-alligator-d0a.notion.site/b5c2a4cd0d004e29b5dde7e98ce2ae09?pvs=4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hjjung990927@gmail.com)](mailto:hjjung990927@gmail.com) <span><a href="https://spotty-alligator-d0a.notion.site/b5c2a4cd0d004e29b5dde7e98ce2ae09?pvs=4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 
 
@@ -32,7 +27,7 @@
 
 
 <div align=left>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sein&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=dev-sein&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjjung990927&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=hjjung990927&show_icons=true">
 </div>
 <br>
