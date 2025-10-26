@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=280&section=header&text=HeeJune_Jung&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
+![header](https://github.com/user-attachments/assets/2915c4d4-50bd-49c7-84c9-224fe3495097)
 
 ## Profile
 👨 정희준 <br>
