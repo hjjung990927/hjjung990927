@@ -1,4 +1,6 @@
-![header](https://github.com/user-attachments/assets/2915c4d4-50bd-49c7-84c9-224fe3495097)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2736e76d-eebc-4eab-89e9-45b50933ac72"/>
+</p>
 
 ## Profile
 👨 정희준 <br>
